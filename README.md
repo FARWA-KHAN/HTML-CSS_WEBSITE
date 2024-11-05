@@ -1,1 +1,2 @@
 # HTML-CSS_WEBSITE
+A cake website built with HTML and CSS could feature a stunning homepage showcasing high-quality images of cakes, a clean navigation bar, and sections like Menu, Gallery, About Us, and Contact. The Menu displays cake categories with images and prices, while the Gallery uses a grid layout to highlight cake designs. An "About Us" page tells the bakery’s story, and a "Testimonials" section shares customer reviews. A simple contact form and social media links in the footer make it easy for customers to connect and place orders.
